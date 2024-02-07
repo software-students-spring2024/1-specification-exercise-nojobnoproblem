@@ -25,7 +25,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To be the one-stop app for those in their skincare journey, where users can access all the essential information of skin products relevant to their needs and goals to help them build their skincare routine.
 
 ## User Requirements
 
