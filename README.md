@@ -8,7 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
- Stakeholder: Jane Miller
+ Stakeholder: Jane Miller <br/>
  Description: A woman in her early 20s looking to fix her skincare routine.
  Goals/Needs:
  1. Establish a skincare routine
