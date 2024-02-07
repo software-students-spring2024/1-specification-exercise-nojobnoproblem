@@ -8,7 +8,20 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+ Stakeholder: Jane Miller
+ Description: A woman in her early 20s looking to fix her skincare routine.
+ Goals/Needs:
+ 1. Establish a skincare routine
+ 2. Figure out if an ingredient is safe
+ 3. Help guide skincare purchasing decisions
+ 4. Find out if you're the right age to be using a certain product
+ 5. Remember products you already looked for and save names for later
+
+ Problems/Frustrations:
+ 1. Overwhelme by product choices
+ 2. Ingredient lists don't tell you if an ingredient is safe
+ 3. Certain products might not work for your skin type
+ 4. It's difficult to find an entire routine that works specifically for you
 
 ## Product Vision Statement
 
