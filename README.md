@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Joshua Forlenza: [joshforlenza](https://github.com/joshforlenza)
+Jean Luis Adrover: [jladrover](https://github.com/jladrover)
+Bonny Chavarria: [BonnyCChavarria](https://github.com/BonnyCChavarria)
+Noah Zhou: [nz792](https://github.com/nz792)
+
 
 ## Stakeholders
 
@@ -18,7 +22,7 @@ See instructions. Delete this line and replace with a list of the names of your 
  5. Remember products you already looked for and save names for later
 
  Problems/Frustrations:
- 1. Overwhelme by product choices
+ 1. Overwhelmed by product choices
  2. Ingredient lists don't tell you if an ingredient is safe
  3. Certain products might not work for your skin type
  4. It's difficult to find an entire routine that works specifically for you
