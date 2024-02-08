@@ -51,7 +51,7 @@ To be the one-stop app for those in their skincare journey, where users can acce
 
 9. As a beauty influencer, I want access to detailed product information and reviews so that I can recommend trustworthy skincare products to my followers with confidence.
 
-10. As someone looking to add a new product to my skincare routine, I want to keep track of potential products that would be a good fit for my skin.
+10. As someone looking to add a new product to my skincare routine, I want to keep track of potential products so I can easily compare them and select the best one for my skin.
 
 ## Activity Diagrams
 
