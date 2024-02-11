@@ -45,11 +45,11 @@ To be the one-stop app for those in their skincare journey, where users can acce
 
 6. As a traveler, I want to know which skincare products are travel-friendly and easy to use on the go so that I can maintain my skincare routine while traveling.
 
-7. As a budget-conscious consumer, I want information about affordable skincare options that still deliver effective results so that I can take care of my skin without breaking the bank.
+7. As a budget-conscious consumer, I want information about affordable skincare options that still deliver effective results so that I can take care of my skin without spending too much.
 
-8. As a person with specific skincare concerns (e.g., acne, aging), I want to discover targeted products that address my concerns effectively so that I can improve the appearance and health of my skin.
+8. As a person with specific skincare concerns (e.g., acne, aging), I want to find targeted products that address my concerns effectively so that I can improve the appearance and health of my skin.
 
-9. As a beauty influencer, I want access to detailed product information and reviews so that I can recommend trustworthy skincare products to my followers with confidence.
+9. As a beauty influencer, I want access to detailed product information and reviews so that I can recommend trustworthy skincare products to my followers.
 
 10. As someone looking to add a new product to my skincare routine, I want to keep track of potential products so I can easily compare them and select the best one for my skin.
 
