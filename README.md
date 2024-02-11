@@ -53,9 +53,17 @@ To be the one-stop app for those in their skincare journey, where users can acce
 
 10. As someone looking to add a new product to my skincare routine, I want to keep track of potential products so I can easily compare them and select the best one for my skin.
 
-## Activity Diagrams
+11. As someone looking to maintain a regular skincare routine, I want to be able to easily add items to my personal routine so I can easily track what products I need to use on a day-to-day basis.
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+## Activity Diagrams
+User Activity: As someone new to skincare, I want recommendations for basic products and their usage instructions so that I can start building a simple skincare routine without feeling overwhelmed.
+
+![Diagram 1](diagram1.png)
+
+User Activity: As someone looking to maintain a regular skincare routine, I want to be able to easily add items to my personal routine so I can easily track what products I need to use on a day-to-day basis.
+
+![Diagram 2](diagram2.png)
+
 
 ## Clickable Prototype
 
