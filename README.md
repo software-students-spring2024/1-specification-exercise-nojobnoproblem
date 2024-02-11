@@ -59,4 +59,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/yxJIGfJEq1mMa4bt5YIlOs/Skincare-mobile-web-app?type=design&node-id=19-3&t=vQkinDelVqI4S7Dk-1&scaling=scale-down&page-id=0%3A1&mode=design)https://www.figma.com/proto/yxJIGfJEq1mMa4bt5YIlOs/Skincare-mobile-web-app?type=design&node-id=19-3&t=vQkinDelVqI4S7Dk-1&scaling=scale-down&page-id=0%3A1&mode=design
+[Prototype link](https://www.figma.com/proto/yxJIGfJEq1mMa4bt5YIlOs/Skincare-mobile-web-app?type=design&node-id=19-3&t=vQkinDelVqI4S7Dk-1&scaling=scale-down&page-id=0%3A1&mode=design)
